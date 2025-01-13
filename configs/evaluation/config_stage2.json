@@ -1,0 +1,8 @@
+{
+    "n_gpu": 1,
+    "data_path": "./dataset/stage2_inference.pkl",
+    "embeddings": "./embeddings.pkl",
+    "metrics": [
+        "t2d"
+    ]
+}

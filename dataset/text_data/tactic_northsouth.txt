@@ -1,0 +1,10 @@
+Retrieve clips of rallies where the player consistently directs shots towards the back and front of the court.
+Show me instances where players employ a strategy of alternating shots between the baseline and the net.
+Highlight rallies characterized by frequent drops followed by deep clears, aiming to move the opponent vertically.
+Find clips of rallies where players employ a tactic of forcing the opponent to move forward and backward rapidly.
+Retrieve instances of players exploiting the north-south movement by utilizing smashes followed by drops or lobs.
+Show me rallies where players strategically vary the depth of their shots to exploit the opponent's movement along the court.
+Highlight rallies showcasing players using quick net exchanges followed by deep lifts to control the opponent's positioning.
+Find clips of rallies where players consistently move their opponents forward and backward to create openings.
+Retrieve instances where players employ deceptive shots to manipulate the opponent's movement along the court.
+Show me rallies characterized by players using cross-court shots followed by straight-line shots to manipulate opponent positioning vertically.

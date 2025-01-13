@@ -1,0 +1,67 @@
+{
+    "name": "Stage2_Model1",
+    "n_gpu": 1,
+    "seed": 240501,
+    "arch": {
+        "type": "TextBasedDataRetrievalModel",
+        "args": {
+            "text_embed_dim": 768
+        }
+    },
+    "data_loader": {
+        "type": "RallyDataLoader",
+        "args": {
+            "num_workers": 1,
+            "batch_size": 64,
+            "shuffle": true,
+            "dataset_kwargs": {
+                "data_path": "./dataset/stage2_training.pkl",
+                "n_classes": 10
+            }
+        }
+    },
+    "valid_data_loader": {
+        "type": "RallyDataLoader",
+        "args": {
+            "num_workers": 1,
+            "batch_size": 128,
+            "shuffle": true,
+            "dataset_kwargs": {
+                "data_path": "./dataset/stage2_validation.pkl",
+                "n_classes": 10
+            }
+        }
+    },
+    "optimizer": {
+        "type": "Adam",
+        "args": {
+            "lr": 0.0001
+        }
+    },
+    "lr_scheduler": {
+        "type": "StepLR",
+        "args": {
+            "step_size": 50,
+            "gamma": 0.1
+        }
+    },
+    "loss": {
+        "type": "Stage2Loss",
+        "args": {
+            "contrastive_loss": "NormSoftmax"
+        }
+    },
+    "metrics": [
+        "t2d"
+    ],
+    "trainer": {
+        "epochs": 10,
+        "mixed_precision": true,
+        "save_dir": "./output",
+        "save_period": 10,
+        "verbosity": 2,
+        "monitor": "off",
+        "init_val": false,
+        "tensorboard": false
+    }
+  }

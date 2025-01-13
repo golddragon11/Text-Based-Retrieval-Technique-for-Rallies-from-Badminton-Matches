@@ -1,0 +1,12 @@
+Retrieve clips of rallies where the winning point is earned because the opponent's shot goes out of bounds.
+Show me instances where players secure victory due to their opponent's shot landing beyond the sidelines or baseline.
+Show me rallies where the winning player benefits from the opponent hitting the shuttle out of bounds.
+Retrieve clips where the winner capitalizes on the opponent's shot landing outside the court boundary.
+Find instances where the winning player gains points due to the opponent's shot going out of bounds.
+Show rallies where the winner scores because the opponent's shot fails to stay within the court lines.
+Retrieve video segments where the winning player wins points due to the opponent's shot being deemed out of play.
+Find clips where the winning player benefits from the opponent's shot landing beyond the court's boundary lines.
+Show me rallies where the winner capitalizes on the opponent's shot going beyond the sidelines or baselines.
+Retrieve instances where the winning player gains points due to the opponent's shot being declared out of bounds.
+Find segments where the winning player benefits from the opponent's shot going outside the designated playing area.
+Show rallies where the winner wins points due to the opponent's shot failing to remain within the legal playing area.

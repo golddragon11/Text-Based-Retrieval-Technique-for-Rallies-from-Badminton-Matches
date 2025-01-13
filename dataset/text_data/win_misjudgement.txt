@@ -1,0 +1,10 @@
+Show me rallies where the winning player benefits from the opponent's misjudgment of the shuttle's trajectory as out of bounds.
+Retrieve clips where the winner capitalizes on the opponent's mistaken belief that the shuttle was going to land outside the court.
+Find instances where the winning player gains points due to the opponent's error in determining the shuttlecock's placement.
+Show rallies where the winner scores because the opponent incorrectly perceives the shuttlecock to be out.
+Retrieve video segments where the winning player wins points due to the opponent's misjudgment of the shuttle's flight path.
+Find clips where the winning player benefits from the opponent's mistaken perception of the shuttlecock's landing position.
+Show me rallies where the winner capitalizes on the opponent's misinterpretation of the shuttle's trajectory as out of play.
+Retrieve instances where the winning player gains points due to the opponent's misjudged call on the shuttle's boundary.
+Find segments where the winning player benefits from the opponent's error in determining the shuttle's position relative to the court boundary.
+Show rallies where the winner wins points due to the opponent's faulty judgment regarding the shuttle's inbounds or out-of-bounds status.

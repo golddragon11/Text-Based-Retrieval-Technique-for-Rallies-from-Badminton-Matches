@@ -1,0 +1,12 @@
+Retrieve clips of rallies where the winning point is earned because the opponent fails to return the shuttlecock.
+Show me instances where players secure victory due to their opponent's inability to make a return.
+Show me rallies where the winning player scores because the opponent fails to return the shuttle to the other side.
+Retrieve clips where the winner capitalizes on the opponent's inability to return the shuttle over the net.
+Find instances where the winning player gains points because the opponent misses returning the shuttle.
+Show rallies where the winner scores because the opponent's return shot falls short of crossing the net.
+Retrieve video segments where the winning player wins points due to the opponent's failure to make a successful return.
+Find clips where the winning player benefits from the opponent's shot failing to clear the net on return.
+Show me rallies where the winner capitalizes on the opponent's shot landing on their own side without crossing the net.
+Retrieve instances where the winning player gains points due to the opponent's shot not reaching the winning player's side of the court.
+Find segments where the winning player benefits from the opponent's return shot being too weak to clear the net.
+Show rallies where the winner wins points because the opponent's return shot goes out of bounds or fails to land in the court.

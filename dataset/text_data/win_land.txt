@@ -1,0 +1,12 @@
+Retrieve clips of rallies where the winning point is scored due to the shuttlecock landing in the opponent's court.
+Show me instances where players secure victory by executing shots that land within the boundaries of the opponent's side.
+Show me rallies where the winning player scores by landing their shot successfully in the opponent's court.
+Retrieve clips where the winner capitalizes on their shot successfully penetrating the opponent's side.
+Find instances where the winning player gains points by executing a shot that lands within the opponent's court boundaries.
+Show rallies where the winner scores because their shot successfully clears the net and lands within the opponent's territory.
+Retrieve video segments where the winning player wins points by accurately placing their shot inside the opponent's side of the court.
+Find clips where the winning player benefits from their shot landing untouched within the opponent's playing area.
+Show me rallies where the winner capitalizes on their shot reaching the opponent's side and remaining in play.
+Retrieve instances where the winning player gains points due to their shot successfully finding space within the opponent's court.
+Find segments where the winning player benefits from their shot landing just inside the opponent's court boundary lines.
+Show rallies where the winner wins points due to their shot landing within the opponent's playing area, beyond their reach.

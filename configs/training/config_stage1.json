@@ -1,0 +1,86 @@
+{
+    "name": "Stage1_Model1",
+    "n_gpu": 1,
+    "seed": 240501,
+    "arch": {
+        "type": "ShotClassificationModel",
+        "args": {
+            "n_classes": 10,
+            "token_dim": 1024,
+            "video_embed_dim": 2048,
+            "tracknet_embed_dim": 12,
+            "token_projection": "gated",
+            "n_tokens": 220,
+            "fusion_params": {
+                "embed_dim": 1024,
+                "use_cls_token": false,
+                "depth": 2,
+                "num_heads": 512,
+                "mlp_ratio": 2,
+                "drop_rate": 0.3
+            }
+        }
+    },
+    "data_loader": {
+        "type": "BadmintonShotDataLoader",
+        "args": {
+            "num_workers": 0,
+            "batch_size": 32,
+            "shuffle": true,
+            "dataset_kwargs": {
+                "data_path": "./dataset/stage1_training.pkl",
+                "n_classes": 10,
+                "n_video_tokens": 80,
+                "n_tracknet_tokens": 140
+            }
+        }
+    },
+    "valid_data_loader": {
+        "type": "BadmintonShotDataLoader",
+        "args": {
+            "num_workers": 0,
+            "batch_size": 64,
+            "shuffle": true,
+            "dataset_kwargs": {
+                "data_path": "./dataset/stage1_validation.pkl",
+                "n_classes": 10,
+                "n_video_tokens": 80,
+                "n_tracknet_tokens": 140
+            }
+        }
+    },
+    "optimizer": {
+        "type": "Adam",
+        "args": {
+            "lr": 0.0005
+        }
+    },
+    "lr_scheduler": {
+        "type": "StepLR",
+        "args": {
+            "step_size": 50,
+            "gamma": 0.7
+        }
+    },
+    "loss": {
+        "type": "CrossEntropyLoss",
+        "args": {}
+    },
+    "metrics": [
+        {"task": "accuracy", "n_classes": 10},
+        {"task": "precision", "n_classes": 10},
+        {"task": "recall", "n_classes": 10},
+        {"task": "f1", "n_classes": 10},
+        {"task": "confusion_matrix", "n_classes": 10}
+    ],
+    "trainer": {
+        "epochs": 56,
+        "mixed_precision": true,
+        "save_dir": "./output",
+        "save_period": 56,
+        "verbosity": 2,
+        "monitor": "off",
+        "init_val": false,
+        "tensorboard": false
+    }
+  }

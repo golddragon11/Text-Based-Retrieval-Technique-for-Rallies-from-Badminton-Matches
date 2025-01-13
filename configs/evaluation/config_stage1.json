@@ -1,0 +1,11 @@
+{
+    "n_gpu": 1,
+    "data_path": "./dataset/stage1_inference.pkl",
+    "metrics": [
+        {"task": "accuracy", "n_classes": 11},
+        {"task": "precision", "n_classes": 11},
+        {"task": "recall", "n_classes": 11},
+        {"task": "f1", "n_classes": 11},
+        {"task": "confusion_matrix", "n_classes": 11}
+    ]
+}

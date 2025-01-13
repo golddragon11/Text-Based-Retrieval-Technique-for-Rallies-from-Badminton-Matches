@@ -1,0 +1,50 @@
+Show me rallies lasting more than & shots.
+Show me rallies lasting less than & shots.
+Retrieve clips of rallies with more than & exchanges.
+Retrieve clips of rallies with less than & exchanges.
+Find instances of rallies that lasted longer than & shots.
+Find instances of rallies that lasted shorter than & shots.
+Show rallies with extended exchanges, lasting over & shots.
+Show rallies with extended exchanges, lasting fewer than & shots.
+Retrieve video segments featuring rallies lasting more than & hits.
+Retrieve video segments featuring rallies lasting less than & hits.
+Find clips of rallies with prolonged play, exceeding & exchanges.
+Find clips of rallies with brief play, under & exchanges.
+Show me instances of rallies lasting over & shots.
+Show me instances of rallies lasting under & shots.
+Retrieve rallies characterized by lengthy exchanges, more than & shots.
+Retrieve rallies characterized by brief exchanges, under & shots.
+Find segments showcasing rallies with extensive play, over & exchanges.
+Find segments showcasing rallies with brief play, under & exchanges.
+Show rallies demonstrating endurance, lasting over & shots.
+Show rallies demonstrating brevity, lasting under & shots.
+Show me rallies lasting less than & shots.
+Show me rallies lasting more than & shots.
+Retrieve clips of rallies with fewer than & exchanges.
+Retrieve clips of rallies with more than & exchanges.
+Find instances of rallies that concluded in less than & shots.
+Find instances of rallies that concluded in more than & shots.
+Show rallies with brief exchanges, lasting under & shots.
+Show rallies with extended exchanges, lasting over & shots.
+Retrieve video segments featuring rallies ending in fewer than & hits.
+Retrieve video segments featuring rallies ending in more than & hits.
+Find clips of rallies with short play, under & exchanges.
+Find clips of rallies with long play, over & exchanges.
+Show me instances of rallies lasting less than & shots.
+Show me instances of rallies lasting more than & shots.
+Retrieve rallies characterized by quick exchanges, under & shots.
+Retrieve rallies characterized by lengthy exchanges, over & shots.
+Find segments showcasing rallies with swift play, under & exchanges.
+Find segments showcasing rallies with extended play, over & exchanges.
+Show rallies demonstrating efficiency, lasting under & shots.
+Show rallies demonstrating endurance, lasting over & shots.
+Show me rallies lasting exactly & shots.
+Retrieve clips of rallies with exactly & exchanges.
+Find instances of rallies that concluded in exactly & shots.
+Show rallies with exchanges lasting exactly & shots.
+Retrieve video segments featuring rallies ending in exactly & hits.
+Find clips of rallies with exactly & exchanges.
+Show me instances of rallies lasting exactly & shots.
+Retrieve rallies characterized by exchanges of exactly & shots.
+Find segments showcasing rallies with exactly & exchanges.
+Show rallies demonstrating precision, lasting exactly & shots.

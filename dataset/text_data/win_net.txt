@@ -1,0 +1,10 @@
+Show me rallies where the winning player benefits from the opponent's shot getting stuck in the net.
+Retrieve clips where the winner capitalizes on the opponent's failed shot resulting in the shuttlecock being caught in the net.
+Find instances where the winning player gains points due to the opponent's unsuccessful shot leading to the shuttlecock being trapped in the net.
+Show rallies where the winner scores because the opponent's shot becomes entangled in the net.
+Retrieve video segments where the winning player wins points due to the opponent's shot getting snagged on the net.
+Find clips where the winning player benefits from the opponent's shot failing to clear the net.
+Show me rallies where the winner capitalizes on the opponent's shot being obstructed by the net.
+Retrieve instances where the winning player gains points due to the opponent's shot being caught in the netting.
+Find segments where the winning player benefits from the opponent's shot becoming trapped in the net.
+Show rallies where the winner wins points due to the opponent's shot hitting the top of the net and failing to pass over.
