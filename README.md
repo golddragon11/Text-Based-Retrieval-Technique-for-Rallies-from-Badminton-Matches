@@ -1,10 +1,5 @@
 Text-Based Retrieval Technique for Rallies from Badminton Matches
 ===
-
-## Table of Contents
-
-[TOC]
-
 ## Environment Setup
 * Setup conda environment with `conda install --file requirements.txt`.
 * Download [TrackNetV3](https://github.com/qaz812345/TrackNetV3) and [extracting-video-features-ResNeXt](https://github.com/kaiqiangh/extracting-video-features-ResNeXt).
