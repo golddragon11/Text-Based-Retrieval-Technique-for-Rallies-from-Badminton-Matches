@@ -41,31 +41,3 @@ class SentenceBERT(nn.Module):
             embeddings = self.model.encode(inputs)[np.newaxis, :]
             embeddings = torch.from_numpy(embeddings)
         return embeddings
-
-
-def extract_text_features():
-    pass
-    # Read text from file
-    # Calculate embeddings
-    # Save embeddings to file
-
-
-if __name__ == "__main__":
-    model = SimCSE()
-    # model = SentenceBERT()
-    model.eval()
-    sentences = ["This framework generates embeddings for each input sentence",
-                 "Sentences are passed as a list of strings.",
-                 "The quick brown fox jumps over the lazy dog.",
-                 "These are random sentences",
-                 "I am a student",
-                 "I am a teacher",
-                 "I am a doctor",
-                 "I am a lawyer",
-                 "Show me clips of smashes"]
-    embeddings = model(sentences)
-
-    for sentence, embedding in zip(sentences, embeddings):
-        print("Sentence:", sentence)
-        print("Embedding:", embedding.shape)
-        print("")
